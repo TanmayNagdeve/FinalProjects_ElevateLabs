@@ -1,0 +1,5 @@
+GridSearchCV can be used for Model Tuning
+
+Derived Features like wait time, day of week etc can have been used for Feature Engineering
+
+Advanced Models like  XGBoost or LightGBM can be used for more depth.
